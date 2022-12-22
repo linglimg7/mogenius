@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="4932ca43-258e-4bd8-8464-8677451c6b0d"
-ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
+ARG AUUID="62e78900-c76c-4e87-942b-9d0fd0166b2d"
+ARG CADDYIndexPage="https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip"
 ARG PORT=8080
 
 ADD etc/Caddyfile /tmp/Caddyfile
